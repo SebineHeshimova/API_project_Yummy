@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Yummy\\Yummy_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\dal\\yummydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\yummy\\yummyproject\\yummyproject.webapi\\entity\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:59:18.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:56:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YummyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:22:00.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:09:22.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:07:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:06:04.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:56:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:54:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:52:16.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:46:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:43:36.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:41:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:37:15.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

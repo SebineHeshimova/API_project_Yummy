@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.CategoriesController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "YummyProject.WebApi.Entity.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
