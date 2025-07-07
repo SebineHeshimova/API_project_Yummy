@@ -74,9 +74,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "YummyProject.WebApi.Controllers.ChefController",
+    "ContainingType": "YummyProject.WebApi.Controllers.ChefsController",
     "Method": "CreateChef",
-    "RelativePath": "api/Chef",
+    "RelativePath": "api/Chefs",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -90,9 +90,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "YummyProject.WebApi.Controllers.ChefController",
+    "ContainingType": "YummyProject.WebApi.Controllers.ChefsController",
     "Method": "UpdateChef",
-    "RelativePath": "api/Chef",
+    "RelativePath": "api/Chefs",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -106,9 +106,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "YummyProject.WebApi.Controllers.ChefController",
+    "ContainingType": "YummyProject.WebApi.Controllers.ChefsController",
     "Method": "DeleteChef",
-    "RelativePath": "api/Chef",
+    "RelativePath": "api/Chefs",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -122,9 +122,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "YummyProject.WebApi.Controllers.ChefController",
+    "ContainingType": "YummyProject.WebApi.Controllers.ChefsController",
     "Method": "ChefList",
-    "RelativePath": "api/Chef",
+    "RelativePath": "api/Chefs",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -132,9 +132,83 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "YummyProject.WebApi.Controllers.ChefController",
+    "ContainingType": "YummyProject.WebApi.Controllers.ChefsController",
     "Method": "GetChef",
-    "RelativePath": "api/Chef/GetChef",
+    "RelativePath": "api/Chefs/GetChef",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createContactDTO",
+        "Type": "YummyProject.WebApi.DTOs.ContactDTOs.CreateContactDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateContactDTO",
+        "Type": "YummyProject.WebApi.DTOs.ContactDTOs.UpdateContactDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "ConractList",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/Contacts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "GetContact",
+    "RelativePath": "api/Contacts/GetContact",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

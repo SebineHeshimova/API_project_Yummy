@@ -7,10 +7,10 @@ namespace YummyProject.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ChefController : ControllerBase
+    public class ChefsController : ControllerBase
     {
         private readonly YummyDBContext _context ;
-        public ChefController(YummyDBContext context)
+        public ChefsController(YummyDBContext context)
         {
             _context = context;
         }
