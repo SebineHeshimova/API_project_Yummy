@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,11 +55,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:39:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:29:24.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
@@ -65,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
@@ -76,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "YummyDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
@@ -88,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
@@ -100,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
@@ -112,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
@@ -124,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
@@ -136,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Chef.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
@@ -148,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
@@ -160,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
@@ -172,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
@@ -184,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
@@ -196,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",

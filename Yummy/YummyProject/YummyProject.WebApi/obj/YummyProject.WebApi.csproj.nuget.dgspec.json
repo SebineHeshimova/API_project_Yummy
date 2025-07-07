@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj": {
+    "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
         "projectName": "YummyProject.WebApi",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
