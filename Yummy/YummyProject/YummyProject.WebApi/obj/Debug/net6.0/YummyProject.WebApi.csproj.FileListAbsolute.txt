@@ -157,3 +157,4 @@ C:\Users\Asus\Desktop\API_project_Yummy\Yummy\YummyProject\YummyProject.WebApi\o
 C:\Users\Asus\Desktop\API_project_Yummy\Yummy\YummyProject\YummyProject.WebApi\obj\Debug\net6.0\YummyProject.WebApi.pdb
 C:\Users\Asus\Desktop\API_project_Yummy\Yummy\YummyProject\YummyProject.WebApi\obj\Debug\net6.0\YummyProject.WebApi.genruntimeconfig.cache
 C:\Users\Asus\Desktop\API_project_Yummy\Yummy\YummyProject\YummyProject.WebApi\obj\Debug\net6.0\ref\YummyProject.WebApi.dll
+C:\Users\Asus\Desktop\API_project_Yummy\Yummy\YummyProject\YummyProject.WebApi\bin\Debug\net6.0\AutoMapper.dll
