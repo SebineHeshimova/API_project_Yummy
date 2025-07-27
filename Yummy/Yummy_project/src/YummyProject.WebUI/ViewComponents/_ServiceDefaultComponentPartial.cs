@@ -9,7 +9,7 @@ namespace YummyProject.WebUI.ViewComponents
         private IHttpClientFactory _httpClientFactory;
 
         public _ServiceDefaultComponentPartial(IHttpClientFactory httpClientFactory)
-        {
+        { 
             _httpClientFactory = httpClientFactory;
         }
 
@@ -20,8 +20,8 @@ namespace YummyProject.WebUI.ViewComponents
             if(responseMessage.IsSuccessStatusCode)
             {
                 var jsonData= await responseMessage.Content.ReadAsStringAsync();
-                var valuues=JsonConvert.DeserializeObject<List<GetServiceDTO>>(jsonData);
-                return View(valuues);
+                var values=JsonConvert.DeserializeObject<List<GetServiceDTO>>(jsonData);
+                return View(values);
             }
             return View();
         }
