@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using YummyProject.WebApi.DTOs.ChefDTOs;
 using YummyProject.WebApi.DTOs.FeatureDTOs;
+using YummyProject.WebApi.DTOs.FeedbackDTOs;
 using YummyProject.WebApi.DTOs.MessageDTOs;
 using YummyProject.WebApi.DTOs.ProductDTOs;
 using YummyProject.WebApi.DTOs.ServiceDTOs;
@@ -36,7 +37,10 @@ namespace YummyProject.WebApi.Mapping
             CreateMap<Chef, GetChefDTO>().ReverseMap();
             CreateMap<Chef, GetByIdChefDTO>().ReverseMap();
 
-
+            CreateMap<Feedback, CreateFeedbackDTO>().ReverseMap();
+            CreateMap<Feedback, UpdateFeedbackDTO>().ReverseMap();
+            CreateMap<Feedback, GetFeedbackDTO>().ReverseMap();
+            CreateMap<Feedback, GetByIdChefDTO>().ReverseMap();
         }
     }
 }

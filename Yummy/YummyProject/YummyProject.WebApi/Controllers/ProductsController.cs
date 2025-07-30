@@ -57,7 +57,7 @@ namespace YummyProject.WebApi.Controllers
         {
             var value = _context.Products.ToList();
             return Ok(value);
-        }
+        } 
         [HttpDelete]
         public IActionResult DeleteProduct(int id)
         {
@@ -66,12 +66,12 @@ namespace YummyProject.WebApi.Controllers
             _context.SaveChanges();
             return Ok("Mehsul ugurla silindi!");
         }
-       /* [HttpGet("GetProduct")]
+        [HttpGet("GetProduct")]
         public IActionResult GetProduct(int id)
         {
             var value=_context.Products.Find(id);
             return Ok(value);
-        } */
+        } 
         [HttpPut]
         public IActionResult UpdateProduct(Product product)
         {
