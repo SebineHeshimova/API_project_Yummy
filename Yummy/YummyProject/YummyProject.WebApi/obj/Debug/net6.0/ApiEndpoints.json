@@ -616,5 +616,79 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.YummyEventsController",
+    "Method": "CreateYummyEvent",
+    "RelativePath": "api/YummyEvents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yummyEvent",
+        "Type": "YummyProject.WebApi.Entity.YummyEvent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.YummyEventsController",
+    "Method": "UpdateYummyEvent",
+    "RelativePath": "api/YummyEvents",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yummyEvent",
+        "Type": "YummyProject.WebApi.Entity.YummyEvent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.YummyEventsController",
+    "Method": "DeleteYummyEvent",
+    "RelativePath": "api/YummyEvents",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.YummyEventsController",
+    "Method": "YummyEventList",
+    "RelativePath": "api/YummyEvents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.YummyEventsController",
+    "Method": "GetYummyEvent",
+    "RelativePath": "api/YummyEvents/GetYummyEvent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
