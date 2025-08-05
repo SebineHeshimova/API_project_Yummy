@@ -55,5 +55,11 @@ namespace YummyProject.WebApi.Controllers
             var value =_context.Messages.Find(id);
             return Ok(_mapper.Map<GetByIdMessageDTO>(value));
         }
+        [HttpGet("GetMessageIsReadFalse")]
+        public IActionResult GetMessageIsReadFalse()
+        {
+            var message=_context.Messages.Where(x=>x.IsRead==false).ToList();
+            return Ok(message);
+        }
     }
 }

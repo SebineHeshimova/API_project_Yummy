@@ -682,6 +682,18 @@
         }
       }
     },
+    "/api/Messages/GetMessageIsReadFalse": {
+      "get": {
+        "tags": [
+          "Messages"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Products": {
       "post": {
         "tags": [
