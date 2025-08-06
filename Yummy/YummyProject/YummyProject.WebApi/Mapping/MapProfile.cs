@@ -3,6 +3,7 @@ using YummyProject.WebApi.DTOs.ChefDTOs;
 using YummyProject.WebApi.DTOs.FeatureDTOs;
 using YummyProject.WebApi.DTOs.FeedbackDTOs;
 using YummyProject.WebApi.DTOs.MessageDTOs;
+using YummyProject.WebApi.DTOs.NotificationDTOs;
 using YummyProject.WebApi.DTOs.ProductDTOs;
 using YummyProject.WebApi.DTOs.ServiceDTOs;
 using YummyProject.WebApi.DTOs.YummyEventDTOs;
@@ -47,6 +48,11 @@ namespace YummyProject.WebApi.Mapping
             CreateMap<YummyEvent, UpdateYummyEventDTO>().ReverseMap();
             CreateMap<YummyEvent, GetYummyEventDto>().ReverseMap();
             CreateMap<YummyEvent, GetByIdYummyEventDTO>().ReverseMap();
+
+            CreateMap<Notification, CreateNotificationDTO>().ReverseMap();
+            CreateMap<Notification, UpdateNotificationDTO>().ReverseMap();
+            CreateMap<Notification, GetNotificationDTO>().ReverseMap();
+            CreateMap<Notification, GetByIdNotificationDTO>().ReverseMap();
 
         }
     }

@@ -1,0 +1,29 @@
+﻿@model List<GetMessageByIsReadDTO>
+<div class="dropdown-menu dropdown-list dropdown-menu-right pullDown">
+    <div class="dropdown-header">
+        Messages
+        <div class="float-right">
+            <a href="#">Mark All As Read</a>
+        </div>
+    </div>
+    <div class="dropdown-list-content dropdown-list-message">
+        @foreach (var item in Model)
+        {
+            <a href="#" class="dropdown-item">
+                <span class="dropdown-item-avatar text-white">
+                    <img alt="image" src="/otika-bootstrap-admin-template/assets/img/users/user-1.png" class="rounded-circle">
+                </span> <span class="dropdown-item-desc">
+                    <span class="message-user">
+                        @item.NameSurname
+                    </span>
+                    <span class="time messege-text">@item.Subject</span>
+                    <span class="time">@item.SendDate</span>
+                </span>
+            </a>
+        }
+
+    </div>
+    <div class="dropdown-footer text-center">
+        <a href="#">View All <i class="fas fa-chevron-right"></i></a>
+    </div>
+</div>
