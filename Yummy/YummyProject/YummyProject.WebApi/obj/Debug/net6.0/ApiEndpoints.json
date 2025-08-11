@@ -8,8 +8,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "category",
-        "Type": "YummyProject.WebApi.Entity.Category",
+        "Name": "cagetoryDTO",
+        "Type": "YummyProject.WebApi.DTOs.CategoryDTOs.CreateCagetoryDTO",
         "IsRequired": true
       }
     ],
@@ -24,8 +24,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "category",
-        "Type": "YummyProject.WebApi.Entity.Category",
+        "Name": "categoryDTO",
+        "Type": "YummyProject.WebApi.DTOs.CategoryDTOs.UpdateCategoryDTO",
         "IsRequired": true
       }
     ],

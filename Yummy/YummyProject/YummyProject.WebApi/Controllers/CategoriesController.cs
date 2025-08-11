@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using YummyProject.WebApi.DAL;
+using YummyProject.WebApi.DTOs.CategoryDTOs;
+using YummyProject.WebApi.DTOs.FeatureDTOs;
 using YummyProject.WebApi.Entity;
 
 namespace YummyProject.WebApi.Controllers
@@ -10,21 +13,25 @@ namespace YummyProject.WebApi.Controllers
     public class CategoriesController : ControllerBase
     {
         private readonly YummyDBContext _context;
-        public CategoriesController(YummyDBContext context)
+        private readonly IMapper _mapper;
+        public CategoriesController(YummyDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         [HttpPost]
-        public IActionResult CreateCategory(Category category)
+        public IActionResult CreateCategory(CreateCagetoryDTO cagetoryDTO)
         {
-            _context.Categories.Add(category);
+            var value = _mapper.Map<Category>(cagetoryDTO);
+            _context.Categories.Add(value);
             _context.SaveChanges();
-            return Ok("Kategory elave olundu");
+            return Ok("Category elave olundu");
         }
         [HttpPut]
-        public IActionResult UpdateCategory(Category category)
+        public IActionResult UpdateCategory(UpdateCategoryDTO categoryDTO)
         {
-            _context.Categories.Update(category);
+            var value=_mapper.Map<Category>(categoryDTO);
+            _context.Categories.Update(value);
             _context.SaveChanges();
             return Ok("Category ugurla deyisdirildi");
         }

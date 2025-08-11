@@ -10,7 +10,6 @@ namespace YummyProject.WebApi.ValidationRules
             RuleFor(x=>x.CategoryName).NotEmpty().WithMessage("Kategoriya adı boş olmamalıdır!").
                 MinimumLength(3).WithMessage("Uzunluq 3 simvoldan qısa olmamalıdır!").
                 MaximumLength(20).WithMessage("Uzunluq 20 simvoldan çox olmamalıdır!");
-            RuleFor(X => X.Products).NotNull();
         }
     }
 }

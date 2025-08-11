@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using System.Runtime.InteropServices;
+using YummyProject.WebApi.DTOs.CategoryDTOs;
 using YummyProject.WebApi.DTOs.ChefDTOs;
 using YummyProject.WebApi.DTOs.FeatureDTOs;
 using YummyProject.WebApi.DTOs.FeedbackDTOs;
@@ -53,6 +55,9 @@ namespace YummyProject.WebApi.Mapping
             CreateMap<Notification, UpdateNotificationDTO>().ReverseMap();
             CreateMap<Notification, GetNotificationDTO>().ReverseMap();
             CreateMap<Notification, GetByIdNotificationDTO>().ReverseMap();
+
+            CreateMap<Category, CreateCagetoryDTO>().ReverseMap();
+            CreateMap<Category, UpdateCategoryDTO>().ReverseMap();
 
         }
     }
