@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YummyProject.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+239bc26eae8919276f3b7e7623a69e4e022e4b71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c1356374bf023546b7ddaa2b6abee14d99e096")]
 [assembly: System.Reflection.AssemblyProductAttribute("YummyProject.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YummyProject.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,55 @@
+﻿@model CreateProductDTO
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<section class="section">
+    <div class="section-body">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Product create page</h4>
+                    </div>
+                    <div class="card-body">
+
+                        <form method="post">
+                            <div class="form-group row">
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Product name</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ProductName" class="form-control" placeholder="Product name">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Product description</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ProductDescription" class="form-control" placeholder="Product description">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Price</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Price" class="form-control" placeholder="Price">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Category</label>
+                                <div class="col-sm-10">
+                                    <select asp-for="CategoryId" class="form-control" asp-items="(IEnumerable<SelectListItem>)ViewBag.v">
+                                        
+                                        <option value=""> Category select </option>
+                                    </select><br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Product image</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ImageUrl" class="form-control" placeholder="Image">
+                                    <br />
+                                    <button class="btn btn-primary">Create</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
