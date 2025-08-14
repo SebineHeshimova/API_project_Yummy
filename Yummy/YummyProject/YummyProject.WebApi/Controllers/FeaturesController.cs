@@ -48,7 +48,7 @@ namespace YummyProject.WebApi.Controllers
             var values= _context.Features.ToList();
             return Ok(_mapper.Map<List<GetFeatureDTO>>(values));
         }
-        [HttpGet("{id}")]
+        [HttpGet("GetFeature")]
         public IActionResult GetFeature(int id)
         {
             var value=_context.Features.Find(id);

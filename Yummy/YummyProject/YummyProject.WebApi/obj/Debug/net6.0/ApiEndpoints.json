@@ -282,7 +282,7 @@
   {
     "ContainingType": "YummyProject.WebApi.Controllers.FeaturesController",
     "Method": "GetFeature",
-    "RelativePath": "api/Features/{id}",
+    "RelativePath": "api/Features/GetFeature",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -290,7 +290,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

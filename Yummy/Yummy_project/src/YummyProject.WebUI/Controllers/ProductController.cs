@@ -77,7 +77,6 @@ namespace YummyProject.WebUI.Controllers
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var value = JsonConvert.DeserializeObject<UpdateProductDTO>(jsonData);
                 return View(value);
-
             }
             return View();
         }
