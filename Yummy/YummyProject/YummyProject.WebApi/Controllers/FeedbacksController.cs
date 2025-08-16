@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using YummyProject.WebApi.DAL;
 using YummyProject.WebApi.DTOs.FeedbackDTOs;
+using YummyProject.WebApi.DTOs.FeedbackDTOs;
 using YummyProject.WebApi.Entity;
 
 namespace YummyProject.WebApi.Controllers
@@ -15,26 +16,26 @@ namespace YummyProject.WebApi.Controllers
     [ApiController]
     public class FeedbacksController : ControllerBase
     {
-      
-
-
-
         private readonly YummyDBContext _context;
-        public FeedbacksController(YummyDBContext context)
+        private readonly IMapper _mapper;
+        public FeedbacksController(YummyDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         [HttpPost]
-        public IActionResult CreateFeedback(Feedback feedback)
+        public IActionResult CreateFeedback(CreateFeedbackDTO feedbackDTO)
         {
-            _context.Feedbacks.Add(feedback);
+            var value = _mapper.Map<Feedback>(feedbackDTO);
+            _context.Feedbacks.Add(value);
             _context.SaveChanges();
             return Ok("Feedback elave olundu");
         }
         [HttpPut]
-        public IActionResult UpdateFeedback(Feedback feedback)
+        public IActionResult UpdateFeedback(UpdateFeedbackDTO feedbackDTO)
         {
-            _context.Feedbacks.Update(feedback);
+            var value = _mapper.Map<Feedback>(feedbackDTO);
+            _context.Feedbacks.Update(value);
             _context.SaveChanges();
             return Ok("Feedback ugurla deyisdirildi");
         }

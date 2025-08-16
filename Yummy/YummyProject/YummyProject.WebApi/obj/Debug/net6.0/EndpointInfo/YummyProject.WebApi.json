@@ -577,17 +577,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/CreateFeedbackDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/CreateFeedbackDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/CreateFeedbackDTO"
               }
             }
           }
@@ -606,17 +606,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/UpdateFeedbackDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/UpdateFeedbackDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Feedback"
+                "$ref": "#/components/schemas/UpdateFeedbackDTO"
               }
             }
           }
@@ -1451,6 +1451,28 @@
         },
         "additionalProperties": false
       },
+      "CreateFeedbackDTO": {
+        "type": "object",
+        "properties": {
+          "nameSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "comment": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "CreateMessageDTO": {
         "type": "object",
         "properties": {
@@ -1539,32 +1561,6 @@
             "nullable": true
           },
           "iconUrl": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "Feedback": {
-        "type": "object",
-        "properties": {
-          "feedbackId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "nameSurname": {
-            "type": "string",
-            "nullable": true
-          },
-          "title": {
-            "type": "string",
-            "nullable": true
-          },
-          "comment": {
-            "type": "string",
-            "nullable": true
-          },
-          "imageUrl": {
             "type": "string",
             "nullable": true
           }
@@ -1703,6 +1699,32 @@
             "nullable": true
           },
           "videoUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateFeedbackDTO": {
+        "type": "object",
+        "properties": {
+          "feedbackId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nameSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "comment": {
             "type": "string",
             "nullable": true
           },
