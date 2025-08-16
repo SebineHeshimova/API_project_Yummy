@@ -1206,17 +1206,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/CreateYummyEventDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/CreateYummyEventDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/CreateYummyEventDTO"
               }
             }
           }
@@ -1235,17 +1235,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/UpdateYummyEventDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/UpdateYummyEventDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/YummyEvent"
+                "$ref": "#/components/schemas/UpdateYummyEventDTO"
               }
             }
           }
@@ -1567,6 +1567,31 @@
         },
         "additionalProperties": false
       },
+      "CreateYummyEventDTO": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "Product": {
         "type": "object",
         "properties": {
@@ -1815,7 +1840,7 @@
         },
         "additionalProperties": false
       },
-      "YummyEvent": {
+      "UpdateYummyEventDTO": {
         "type": "object",
         "properties": {
           "yummyEventId": {

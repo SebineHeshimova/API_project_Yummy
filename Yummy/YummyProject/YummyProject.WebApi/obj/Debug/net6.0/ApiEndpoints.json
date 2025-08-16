@@ -794,8 +794,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "yummyEvent",
-        "Type": "YummyProject.WebApi.Entity.YummyEvent",
+        "Name": "yummyEventDTO",
+        "Type": "YummyProject.WebApi.DTOs.YummyEventDTOs.CreateYummyEventDTO",
         "IsRequired": true
       }
     ],
@@ -810,8 +810,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "yummyEvent",
-        "Type": "YummyProject.WebApi.Entity.YummyEvent",
+        "Name": "yummyEventDTO",
+        "Type": "YummyProject.WebApi.DTOs.YummyEventDTOs.UpdateYummyEventDTO",
         "IsRequired": true
       }
     ],

@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using YummyProject.WebApi.DAL;
+using YummyProject.WebApi.DTOs.YummyEventDTOs;
+using YummyProject.WebApi.DTOs.YummyEventDTOs;
 using YummyProject.WebApi.Entity;
 
 namespace YummyProject.WebApi.Controllers
@@ -10,23 +13,27 @@ namespace YummyProject.WebApi.Controllers
     public class YummyEventsController : ControllerBase
     {
         private readonly YummyDBContext _context;
-        public YummyEventsController(YummyDBContext context)
+        private readonly IMapper _mapper;
+        public YummyEventsController(YummyDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         [HttpPost]
-        public IActionResult CreateYummyEvent(YummyEvent yummyEvent)
+        public IActionResult CreateYummyEvent(CreateYummyEventDTO yummyEventDTO)
         {
-            _context.YummyEvents.Add(yummyEvent);
+            var value = _mapper.Map<YummyEvent>(yummyEventDTO);
+            _context.YummyEvents.Add(value);
             _context.SaveChanges();
-            return Ok("Event elave olundu");
+            return Ok("YummyEvent elave olundu");
         }
         [HttpPut]
-        public IActionResult UpdateYummyEvent(YummyEvent yummyEvent)
+        public IActionResult UpdateYummyEvent(UpdateYummyEventDTO yummyEventDTO)
         {
-            _context.YummyEvents.Update(yummyEvent);
+            var value = _mapper.Map<YummyEvent>(yummyEventDTO);
+            _context.YummyEvents.Update(value);
             _context.SaveChanges();
-            return Ok("Event ugurla deyisdirildi");
+            return Ok("YummyEvent ugurla deyisdirildi");
         }
         [HttpDelete]
         public IActionResult DeleteYummyEvent(int id)
@@ -34,7 +41,7 @@ namespace YummyProject.WebApi.Controllers
             var value = _context.YummyEvents.Find(id);
             _context.YummyEvents.Remove(value);
             _context.SaveChanges();
-            return Ok("Event ugurla silindi");
+            return Ok("YummyEvent ugurla silindi");
         }
         [HttpGet]
         public IActionResult YummyEventList()

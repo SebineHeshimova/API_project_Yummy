@@ -1,0 +1,49 @@
+﻿@model List<GetYummyEventDTO>
+@{
+    ViewData["Title"] = "YummyEventList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<section class="section">
+    <div class="section-body">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Events</h4>
+                    </div>
+                    <div class="card-body">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Title</th>
+                                    <th scope="col">Description</th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Delete</th>
+                                    <th scope="col">Update</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    count++;
+                                    <tr>
+                                        <th scope="row">@count</th>
+                                        <td>@item.Title</td>
+                                        <td>@item.Description</td>
+                                        <td>@item.Price</td>
+                                        <td><a href="/YummyEvent/DeleteYummyEvent/@item.YummyEventId" class="btn btn-danger">Delete</a></td>
+                                        <td><a href="/YummyEvent/UpdateYummyEvent/@item.YummyEventId" class="btn btn-success">Update</a></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                        <a href="/YummyEvent/CreateYummyEvent/" class="btn btn-info">New event</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
