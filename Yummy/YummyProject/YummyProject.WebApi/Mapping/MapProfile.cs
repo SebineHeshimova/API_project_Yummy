@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using System.Runtime.InteropServices;
+using YummyProject.WebApi.DTOs.AboutDTOs;
 using YummyProject.WebApi.DTOs.CategoryDTOs;
 using YummyProject.WebApi.DTOs.ChefDTOs;
 using YummyProject.WebApi.DTOs.FeatureDTOs;
@@ -58,6 +59,11 @@ namespace YummyProject.WebApi.Mapping
 
             CreateMap<Category, CreateCagetoryDTO>().ReverseMap();
             CreateMap<Category, UpdateCategoryDTO>().ReverseMap();
+
+            CreateMap<About, CreateAboutDTO>().ReverseMap();
+            CreateMap<About, UpdateAboutDTO>().ReverseMap();
+            CreateMap<About, GetAboutDTO>().ReverseMap();
+            CreateMap<About, GetByIdAboutDTO>().ReverseMap();
 
         }
     }
