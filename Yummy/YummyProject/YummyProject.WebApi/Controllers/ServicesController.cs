@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using YummyProject.WebApi.DAL;
+using YummyProject.WebApi.DTOs.ServiceDTOs;
 using YummyProject.WebApi.Entity;
 
 namespace YummyProject.WebApi.Controllers
@@ -10,23 +12,27 @@ namespace YummyProject.WebApi.Controllers
     public class ServicesController : ControllerBase
     {
         private readonly YummyDBContext _context;
-        public ServicesController(YummyDBContext context)
+        private readonly IMapper _mapper;
+        public ServicesController(YummyDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
         [HttpPost]
-        public IActionResult CreateService(Service service)
+        public IActionResult CreateService(CreateServiceDTO ServiceDTO)
         {
-            _context.Services.Add(service);
+            var value = _mapper.Map<Service>(ServiceDTO);
+            _context.Services.Add(value);
             _context.SaveChanges();
-            return Ok("Kategory elave olundu");
+            return Ok("Service elave olundu");
         }
         [HttpPut]
-        public IActionResult UpdateService(Service service)
+        public IActionResult UpdateService(UpdateServiceDto ServiceDTO)
         {
-            _context.Services.Update(service);
+            var value = _mapper.Map<Service>(ServiceDTO);
+            _context.Services.Update(value);
             _context.SaveChanges();
-            return Ok("service ugurla deyisdirildi");
+            return Ok("Service ugurla deyisdirildi");
         }
         [HttpDelete]
         public IActionResult DeleteService(int id)
@@ -34,7 +40,7 @@ namespace YummyProject.WebApi.Controllers
             var value = _context.Services.Find(id);
             _context.Services.Remove(value);
             _context.SaveChanges();
-            return Ok("service ugurla silindi");
+            return Ok("Service ugurla silindi");
         }
         [HttpGet]
         public IActionResult ServiceList()
@@ -48,6 +54,5 @@ namespace YummyProject.WebApi.Controllers
             var value = _context.Services.Find(id);
             return Ok(value);
         }
-
     }
 }

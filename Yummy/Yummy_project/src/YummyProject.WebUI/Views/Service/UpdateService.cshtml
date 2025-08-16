@@ -1,22 +1,21 @@
-﻿@model UpdateAboutDTO
+﻿@model UpdateServiceDTO
 @{
-    ViewData["Title"] = "UpdateAbout";
+    ViewData["Title"] = "UpdateService";
     Layout = "~/Views/AdminLayout/Index.cshtml";
 }
-
 <section class="section">
     <div class="section-body">
         <div class="row">
             <div class="col-12 col-md-12 col-lg-12">
                 <div class="card">
                     <div class="card-header">
-                        <h4>About update page</h4>
+                        <h4>Service update page</h4>
                     </div>
                     <div class="card-body">
 
                         <form method="post">
                             <div class="form-group row">
-                                <input type="hidden" asp-for="AboutId" />
+                                <input type="hidden" asp-for="ServiceId" />
                                 <label for="inputPassword" class="col-sm-2 col-form-label">Title</label>
                                 <div class="col-sm-10">
                                     <input type="text" asp-for="Title" class="form-control" placeholder="Title">
@@ -27,24 +26,9 @@
                                     <input type="text" asp-for="Description" class="form-control" placeholder="Description">
                                     <br />
                                 </div>
-                                <label for="inputPassword" class="col-sm-2 col-form-label">Reservation Number</label>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">IconUrl</label>
                                 <div class="col-sm-10">
-                                    <input type="text" asp-for="ReservationNumber" class="form-control" placeholder="Reservation Number">
-                                    <br />
-                                </div>
-                                <label for="inputPassword" class="col-sm-2 col-form-label">ImageUrl</label>
-                                <div class="col-sm-10">
-                                    <input type="text" asp-for="ImageUrl" class="form-control" placeholder="ImageUrl">
-                                    <br />
-                                </div>
-                                <label for="inputPassword" class="col-sm-2 col-form-label">VideoCover</label>
-                                <div class="col-sm-10">
-                                    <input type="text" asp-for="VideoCover" class="form-control" placeholder=VideoCover">
-                                    <br />
-                                </div>
-                                <label for="inputPassword" class="col-sm-2 col-form-label">VideoUrl</label>
-                                <div class="col-sm-10">
-                                    <input type="text" asp-for="VideoUrl" class="form-control" placeholder=VideoUrl">
+                                    <input type="text" asp-for="IconUrl" class="form-control" placeholder="IconUrl">
                                     <br />
                                     <button class="btn btn-primary">Update</button>
                                 </div>
@@ -56,3 +40,4 @@
         </div>
     </div>
 </section>
+

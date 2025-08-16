@@ -7,16 +7,79 @@
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\shared\\components\\_sidebaradminlayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\service\\servicelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\service\\servicelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\service\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\service\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\service\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\service\\createservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\servicedtos\\getbyidservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\servicedtos\\getbyidservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\servicedtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\servicedtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\servicedtos\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\servicedtos\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\servicedtos\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\servicedtos\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\entity\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,14 +95,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\about\\createabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,10 +113,6 @@
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\aboutdtos\\createaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\aboutdtos\\getbyidaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\aboutdtos\\getbyidaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,16 +124,7 @@
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\dtos\\aboutdtos\\updateaboutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\mapping\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Migrations\\20250816122903_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\dal\\yummydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -120,9 +162,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\featuredtos\\createfeaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,10 +208,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -362,9 +397,6 @@
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\validationrules\\servicevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\dtos\\yummyeventdtos\\updateyummyeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -446,10 +478,6 @@
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\dtos\\productdtos\\getproductwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\dtos\\servicedtos\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\dtos\\servicedtos\\getservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummy_project\\src\\yummyproject.webui\\views\\shared\\components\\_featuredefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C331FBD-C7DE-4203-BD2B-21478A6EEECE}|src\\YummyProject.WebUI\\YummyProject.WebUI.csproj|solutionrelative:src\\yummyproject.webui\\views\\shared\\components\\_featuredefaultcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -470,9 +498,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\validationrules\\messagevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\entity\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\dtos\\servicedtos\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -588,6 +613,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\migrations\\20250806142048_mig4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F79EBF-42F9-478E-A1B0-4FD0CF367B69}|..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj|c:\\users\\asus\\desktop\\api_project_yummy\\yummy\\yummyproject\\yummyproject.webapi\\migrations\\20250816122903_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -602,79 +630,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:37:17.477Z",
+              "Title": "ServiceList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\ServiceList.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Service\\ServiceList.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\ServiceList.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Service\\ServiceList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:34:31.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UpdateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Title": "CreateService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\CreateService.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Service\\CreateService.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\CreateService.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Service\\CreateService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T19:20:13.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateAboutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:36:23.712Z",
+              "WhenOpened": "2025-08-16T15:32:55.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T08:44:14.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T16:05:49.838Z",
+              "Title": "UpdateService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:30:14.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FeatureController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:00:28.769Z",
+              "WhenOpened": "2025-08-16T15:28:18.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:27:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByIdServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:27:04.89Z",
               "EditorCaption": ""
             },
             {
@@ -685,98 +713,124 @@
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_SidebarAdminLayoutComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_SidebarAdminLayoutComponentPartial\\Default.cshtml*",
               "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_SidebarAdminLayoutComponentPartial\\Default.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-11T15:13:25.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AboutsController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "UpdateServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\UpdateServiceDTO.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\UpdateServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\UpdateServiceDTO.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\UpdateServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:29:44.816Z",
+              "WhenOpened": "2025-08-16T15:26:40.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-16T12:51:03.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "AboutList.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\AboutList.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\About\\AboutList.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\AboutList.cshtml",
               "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\About\\AboutList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-16T12:45:11.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-16T12:39:30.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T16:07:28.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T18:08:35.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:34:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T12:51:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T20:16:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:05:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:37:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T08:29:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-05T16:06:28.112Z",
               "EditorCaption": ""
@@ -784,6 +838,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:39:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:52:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:30:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\FeatureController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:00:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:44:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateAboutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:36:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\UpdateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T19:20:13.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:37:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AboutsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
+              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
+              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\AboutsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:29:44.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\About\\CreateAbout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T12:39:30.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:07:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T18:08:35.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "GetByIdAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
@@ -791,12 +992,11 @@
               "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:36:54.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:36:54.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "GetAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
@@ -804,12 +1004,11 @@
               "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:36:38.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:36:38.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "CreateAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
@@ -817,12 +1016,11 @@
               "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:36:03.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:36:03.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 176,
               "Title": "20250816122903_mig5.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Migrations\\20250816122903_mig5.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Migrations\\20250816122903_mig5.cs",
@@ -830,12 +1028,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Migrations\\20250816122903_mig5.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:29:03.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:29:03.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "GetAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
@@ -843,12 +1040,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:27:17.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:27:17.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "UpdateAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
@@ -856,38 +1052,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\UpdateAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:27:02.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:27:02.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T11:39:21.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MapProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Mapping\\MapProfile.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T11:52:42.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Notification.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Notification.cs",
@@ -895,12 +1064,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T14:16:47.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T14:16:47.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "GetByIdAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
@@ -908,12 +1076,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\GetByIdAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:27:32.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:27:32.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "CreateAboutDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
@@ -921,12 +1088,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\AboutDTOs\\CreateAboutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:26:43.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:26:43.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\About.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\About.cs",
@@ -934,12 +1100,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\About.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T12:23:31.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T12:23:31.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "FeatureList.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Feature\\FeatureList.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Feature\\FeatureList.cshtml",
@@ -947,12 +1112,11 @@
               "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Feature\\FeatureList.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:09:11.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T18:09:11.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "YummyDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
@@ -960,12 +1124,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T08:50:32.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:50:32.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "UpdateFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\UpdateFeatureDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\UpdateFeatureDTO.cs",
@@ -977,7 +1140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "UpdateFeature.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Feature\\UpdateFeature.cshtml",
@@ -989,7 +1152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "CreateFeature.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Feature\\CreateFeature.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Feature\\CreateFeature.cshtml",
@@ -1001,7 +1164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
@@ -1009,12 +1172,11 @@
               "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T07:57:09.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T07:57:09.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "FeaturesController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\FeaturesController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\FeaturesController.cs",
@@ -1026,19 +1188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T20:16:47.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "CreateFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\CreateFeatureDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\CreateFeatureDTO.cs",
@@ -1050,7 +1200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\HomeController.cs",
@@ -1062,7 +1212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "GetByIdFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\GetByIdFeatureDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\GetByIdFeatureDTO.cs",
@@ -1074,7 +1224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 47,
               "Title": "GetFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\GetFeatureDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\FeatureDTOs\\GetFeatureDTO.cs",
@@ -1086,7 +1236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 50,
               "Title": "ProductList.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Product\\ProductList.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Product\\ProductList.cshtml",
@@ -1098,7 +1248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 49,
               "Title": "UpdateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Product\\UpdateProduct.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Product\\UpdateProduct.cshtml",
@@ -1110,7 +1260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 52,
               "Title": "CreateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Product\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Product\\CreateProduct.cshtml",
@@ -1122,7 +1272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 48,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
@@ -1134,7 +1284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 51,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\UpdateProductDTO.cs",
@@ -1146,7 +1296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 53,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ProductsController.cs",
@@ -1158,7 +1308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 54,
               "Title": "GetProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\GetProductDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\GetProductDTO.cs",
@@ -1170,7 +1320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
@@ -1182,19 +1332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T08:29:51.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 56,
               "Title": "GetByIdProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\GetByIdProductDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ProductDTOs\\GetByIdProductDTO.cs",
@@ -1206,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 57,
               "Title": "UpdateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\UpdateCategoryDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\UpdateCategoryDTO.cs",
@@ -1218,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 58,
               "Title": "GetByIdCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\GetByIdCategoryDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\GetByIdCategoryDTO.cs",
@@ -1230,7 +1368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 59,
               "Title": "UpdateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\CategoryDTOs\\UpdateCategoryDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\CategoryDTOs\\UpdateCategoryDTO.cs",
@@ -1242,7 +1380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 60,
               "Title": "GetCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\GetCategoryDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\GetCategoryDTO.cs",
@@ -1254,7 +1392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 61,
               "Title": "CreateCagetoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\CategoryDTOs\\CreateCagetoryDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\CategoryDTOs\\CreateCagetoryDTO.cs",
@@ -1266,7 +1404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 62,
               "Title": "CategoryValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\CategoryValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\CategoryValidation.cs",
@@ -1278,7 +1416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 63,
               "Title": "YummyProject.WebApi.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\YummyProject.WebApi.csproj",
@@ -1290,7 +1428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 64,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\CategoryDTOs\\CreateCategoryDTO.cs",
@@ -1302,7 +1440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 65,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\AdminLayout\\Index.cshtml",
@@ -1314,7 +1452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 66,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_RightSettingAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_RightSettingAdminLayoutComponentPartial\\Default.cshtml",
@@ -1326,7 +1464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 67,
               "Title": "_RightSettingAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_RightSettingAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_RightSettingAdminLayoutComponentPartial.cs",
@@ -1338,7 +1476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 68,
               "Title": "_SidebarAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_SidebarAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_SidebarAdminLayoutComponentPartial.cs",
@@ -1350,7 +1488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 71,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarAccountMenuAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarAccountMenuAdminLayoutComponentPartial\\Default.cshtml",
@@ -1362,7 +1500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 75,
               "Title": "MessagesController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\MessagesController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\MessagesController.cs",
@@ -1374,7 +1512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 70,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarNotificationAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarNotificationAdminLayoutComponentPartial\\Default.cshtml",
@@ -1386,7 +1524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 73,
               "Title": "_NavbarMessageAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarMessageAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarMessageAdminLayoutComponentPartial.cs",
@@ -1398,7 +1536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 69,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarAdminLayoutComponentPartial\\Default.cshtml",
@@ -1410,7 +1548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 72,
               "Title": "_NavbarNotificationAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarNotificationAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarNotificationAdminLayoutComponentPartial.cs",
@@ -1422,7 +1560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 74,
               "Title": "NotificationsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\NotificationsController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\NotificationsController.cs",
@@ -1434,7 +1572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 76,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarMessageAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_NavbarMessageAdminLayoutComponentPartial\\Default.cshtml",
@@ -1446,7 +1584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 77,
               "Title": "_NavbarAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_NavbarAdminLayoutComponentPartial.cs",
@@ -1458,7 +1596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 80,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_HeadAdminLayoutComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_HeadAdminLayoutComponentPartial\\Default.cshtml",
@@ -1470,7 +1608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 79,
               "Title": "_MenuDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuDefaultComponentPartial.cs",
@@ -1482,7 +1620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 78,
               "Title": "_MenuProductDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuProductDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuProductDefaultComponentPartial.cs",
@@ -1494,7 +1632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 81,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuDefaultComponentPartial\\Default.cshtml",
@@ -1506,7 +1644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 82,
               "Title": "GetNotificationByIsReadDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\NotificationDTOs\\GetNotificationByIsReadDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\NotificationDTOs\\GetNotificationByIsReadDTO.cs",
@@ -1518,7 +1656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 83,
               "Title": "GetNotificationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\GetNotificationDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\GetNotificationDTO.cs",
@@ -1530,7 +1668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 84,
               "Title": "UpdateNotificationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\UpdateNotificationDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\UpdateNotificationDTO.cs",
@@ -1542,7 +1680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 85,
               "Title": "GetByIdNotificationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\GetByIdNotificationDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\GetByIdNotificationDTO.cs",
@@ -1554,7 +1692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 86,
               "Title": "CreateNotificationDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\CreateNotificationDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\NotificationDTOs\\CreateNotificationDTO.cs",
@@ -1566,7 +1704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 169,
+              "DocumentIndex": 175,
               "Title": "20250806142048_mig4.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Migrations\\20250806142048_mig4.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Migrations\\20250806142048_mig4.cs",
@@ -1578,7 +1716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 89,
               "Title": "GetMessageByIsReadDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\MessageDTOs\\GetMessageByIsReadDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\MessageDTOs\\GetMessageByIsReadDTO.cs",
@@ -1590,7 +1728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 88,
               "Title": "Chef.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
@@ -1602,7 +1740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 87,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
@@ -1614,7 +1752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 90,
               "Title": "_ServiceDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_ServiceDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_ServiceDefaultComponentPartial.cs",
@@ -1626,7 +1764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 91,
               "Title": "_YummyEventDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_YummyEventDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_YummyEventDefaultComponentPartial.cs",
@@ -1638,7 +1776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 93,
               "Title": "_HeadAdminLayoutComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_HeadAdminLayoutComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\AdminLayoutViewComponent\\_HeadAdminLayoutComponentPartial.cs",
@@ -1650,7 +1788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 92,
               "Title": "_AboutDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_AboutDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_AboutDefaultComponentPartial.cs",
@@ -1662,7 +1800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 94,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1674,7 +1812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 95,
               "Title": "AdminLayoutController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\AdminLayoutController.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\AdminLayoutController.cs",
@@ -1686,7 +1824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 96,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\_ViewStart.cshtml",
@@ -1698,7 +1836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 99,
               "Title": "ChefsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ChefsController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ChefsController.cs",
@@ -1710,7 +1848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 100,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_YummyEventDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_YummyEventDefaultComponentPartial\\Default.cshtml",
@@ -1722,7 +1860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 101,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuProductDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuProductDefaultComponentPartial\\Default.cshtml",
@@ -1734,7 +1872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 102,
               "Title": "YummyEventsController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\YummyEventsController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\YummyEventsController.cs",
@@ -1746,7 +1884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 98,
               "Title": "GetByIdChefDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\GetByIdChefDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\GetByIdChefDTO.cs",
@@ -1758,7 +1896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 97,
               "Title": "GetChefDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\GetChefDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\GetChefDTO.cs",
@@ -1770,7 +1908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 103,
               "Title": "YummyEvent.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\YummyEvent.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\YummyEvent.cs",
@@ -1782,7 +1920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 104,
               "Title": "YummyEventValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\YummyEventValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\YummyEventValidation.cs",
@@ -1794,7 +1932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 105,
               "Title": "ProductValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ProductValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ProductValidation.cs",
@@ -1806,7 +1944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 106,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
@@ -1818,7 +1956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 107,
               "Title": "ServiceValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ServiceValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ServiceValidation.cs",
@@ -1830,19 +1968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "ServicesController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T07:34:45.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 108,
               "Title": "UpdateYummyEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\UpdateYummyEventDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\UpdateYummyEventDTO.cs",
@@ -1854,7 +1980,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 109,
               "Title": "GetYummyEventDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\GetYummyEventDto.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\GetYummyEventDto.cs",
@@ -1866,7 +1992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 110,
               "Title": "GetByIdYummyEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\GetByIdYummyEventDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\GetByIdYummyEventDTO.cs",
@@ -1878,7 +2004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 111,
               "Title": "CreateYummyEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\CreateYummyEventDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\YummyEventDTOs\\CreateYummyEventDTO.cs",
@@ -1890,7 +2016,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 112,
               "Title": "_MenuCategoryDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuCategoryDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_MenuDefaultComponentPartial\\_MenuCategoryDefaultComponentPartial.cs",
@@ -1902,7 +2028,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 113,
               "Title": "GetYummyEventDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\YummyEventDTOs\\GetYummyEventDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\YummyEventDTOs\\GetYummyEventDTO.cs",
@@ -1914,7 +2040,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 114,
               "Title": "_FeedbackDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_FeedbackDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_FeedbackDefaultComponentPartial.cs",
@@ -1926,7 +2052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 168,
+              "DocumentIndex": 174,
               "Title": "20250730091833_mig3.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Migrations\\20250730091833_mig3.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Migrations\\20250730091833_mig3.cs",
@@ -1938,7 +2064,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 116,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuCategoryDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_MenuCategoryDefaultComponentPartial\\Default.cshtml",
@@ -1950,7 +2076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 115,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
@@ -1962,7 +2088,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 117,
               "Title": "FeedbacksController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\FeedbacksController.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Controllers\\FeedbacksController.cs",
@@ -1974,7 +2100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 118,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Program.cs",
@@ -1986,7 +2112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 119,
               "Title": "CreateFeedbackDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\CreateFeedbackDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\CreateFeedbackDTO.cs",
@@ -1998,7 +2124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 120,
               "Title": "GetByIdFeedback.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\GetByIdFeedback.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\GetByIdFeedback.cs",
@@ -2010,7 +2136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 121,
               "Title": "GetFeedbackDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\GetFeedbackDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\GetFeedbackDTO.cs",
@@ -2022,7 +2148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 122,
               "Title": "UpdateFeedbackDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\UpdateFeedbackDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeedbackDTOs\\UpdateFeedbackDTO.cs",
@@ -2034,7 +2160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 123,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
@@ -2046,7 +2172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 124,
               "Title": "FeedbackValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\FeedbackValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\FeedbackValidation.cs",
@@ -2058,7 +2184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 125,
               "Title": "_FeatureDefaultComponentPartial.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\ViewComponents\\_FeatureDefaultComponentPartial.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\ViewComponents\\_FeatureDefaultComponentPartial.cs",
@@ -2070,7 +2196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 126,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_FeedbackDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_FeedbackDefaultComponentPartial\\Default.cshtml",
@@ -2082,7 +2208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 127,
               "Title": "GetFeedbackDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\FeedbackDTOs\\GetFeedbackDTO.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\FeedbackDTOs\\GetFeedbackDTO.cs",
@@ -2094,7 +2220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 128,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_ServiceDefaultComponentPartial\\Default.cshtml",
@@ -2106,7 +2232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 129,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Program.cs",
@@ -2118,7 +2244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 130,
               "Title": "GetByIdServiceDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\GetByIdServiceDTO.cs",
@@ -2130,7 +2256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 131,
               "Title": "GetProductWithCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\GetProductWithCategoryDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\GetProductWithCategoryDTO.cs",
@@ -2142,7 +2268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 132,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_FeatureDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_FeatureDefaultComponentPartial\\Default.cshtml",
@@ -2154,19 +2280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
-              "Title": "GetServiceDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
-              "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
-              "RelativeToolTip": "src\\YummyProject.WebUI\\DTOs\\ServiceDTOs\\GetServiceDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T13:30:46.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 135,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
@@ -2178,7 +2292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 134,
               "Title": "CreateChefDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\CreateChefDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\CreateChefDTO.cs",
@@ -2190,7 +2304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 133,
               "Title": "UpdateChefDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\UpdateChefDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ChefDTOs\\UpdateChefDTO.cs",
@@ -2202,7 +2316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 136,
               "Title": "FeatureValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\FeatureValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\FeatureValidation.cs",
@@ -2214,7 +2328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 137,
               "Title": "ImageValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ImageValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\ImageValidation.cs",
@@ -2226,7 +2340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 138,
               "Title": "MessageValidation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\ValidationRules\\MessageValidation.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\ValidationRules\\MessageValidation.cs",
@@ -2238,7 +2352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 139,
               "Title": "UpdateServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\UpdateServiceDto.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\UpdateServiceDto.cs",
@@ -2250,7 +2364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
+              "DocumentIndex": 140,
               "Title": "GetServiceDto.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\GetServiceDto.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\GetServiceDto.cs",
@@ -2262,19 +2376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
-              "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
-              "RelativeToolTip": "..\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T07:37:09.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 141,
               "Title": "CreateServiceDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ServiceDTOs\\CreateServiceDTO.cs",
@@ -2286,7 +2388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 142,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_AboutDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_AboutDefaultComponentPartial\\Default.cshtml",
@@ -2298,7 +2400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 143,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\_Layout.cshtml",
@@ -2310,7 +2412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 144,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Views\\Shared\\Components\\_HeadDefaultComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Views\\Shared\\Components\\_HeadDefaultComponentPartial\\Default.cshtml",
@@ -2322,7 +2424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
+              "DocumentIndex": 145,
               "Title": "DefaultController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\Yummy_project\\src\\YummyProject.WebUI\\Controllers\\DefaultController.cs",
               "RelativeDocumentMoniker": "src\\YummyProject.WebUI\\Controllers\\DefaultController.cs",
@@ -2334,7 +2436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 159,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\UpdateProductDTO.cs",
@@ -2346,7 +2448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 160,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ProductDTOs\\CreateProductDTO.cs",
@@ -2358,7 +2460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 161,
               "Title": "20250715075921_mig2.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\Migrations\\20250715075921_mig2.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\Migrations\\20250715075921_mig2.cs",
@@ -2370,7 +2472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 156,
+              "DocumentIndex": 162,
               "Title": "GetByIdMessageDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\GetByIdMessageDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\GetByIdMessageDTO.cs",
@@ -2382,7 +2484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 157,
+              "DocumentIndex": 163,
               "Title": "CreateMessageDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\CreateMessageDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\CreateMessageDTO.cs",
@@ -2394,7 +2496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 158,
+              "DocumentIndex": 164,
               "Title": "GetMessageDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\GetMessageDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\GetMessageDTO.cs",
@@ -2406,7 +2508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 159,
+              "DocumentIndex": 165,
               "Title": "UpdateMessageDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\UpdateMessageDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\MessageDTOs\\UpdateMessageDTO.cs",
@@ -2418,7 +2520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 160,
+              "DocumentIndex": 166,
               "Title": "GetByIdFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\GetByIdFeatureDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\GetByIdFeatureDTO.cs",
@@ -2430,7 +2532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 161,
+              "DocumentIndex": 167,
               "Title": "UpdateFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\UpdateFeatureDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\UpdateFeatureDTO.cs",
@@ -2442,7 +2544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 162,
+              "DocumentIndex": 168,
               "Title": "CreateFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\CreateFeatureDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\CreateFeatureDTO.cs",
@@ -2454,7 +2556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 163,
+              "DocumentIndex": 169,
               "Title": "GetFeatureDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\GetFeatureDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\FeatureDTOs\\GetFeatureDTO.cs",
@@ -2466,7 +2568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 164,
+              "DocumentIndex": 170,
               "Title": "GetByIdContact.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\GetByIdContact.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\GetByIdContact.cs",
@@ -2478,7 +2580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 165,
+              "DocumentIndex": 171,
               "Title": "CreateContactDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\CreateContactDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\CreateContactDTO.cs",
@@ -2490,7 +2592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 166,
+              "DocumentIndex": 172,
               "Title": "UpdateContactDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\UpdateContactDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\UpdateContactDTO.cs",
@@ -2502,7 +2604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 167,
+              "DocumentIndex": 173,
               "Title": "GetContactDTO.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\API_project_Yummy\\Yummy\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\GetContactDTO.cs",
               "RelativeDocumentMoniker": "..\\YummyProject\\YummyProject.WebApi\\DTOs\\ContactDTOs\\GetContactDTO.cs",
@@ -2514,7 +2616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
+              "DocumentIndex": 147,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Program.cs",
@@ -2525,7 +2627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 146,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Controllers\\CategoriesController.cs",
@@ -2536,7 +2638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 148,
               "Title": "YummyDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\DAL\\YummyDBContext.cs",
@@ -2547,7 +2649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 149,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Message.cs",
@@ -2558,7 +2660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 150,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Contact.cs",
@@ -2569,7 +2671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 151,
               "Title": "Image.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Image.cs",
@@ -2580,7 +2682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 152,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Reservation.cs",
@@ -2591,7 +2693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 153,
               "Title": "Chef.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Chef.cs",
@@ -2602,7 +2704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 154,
               "Title": "Feedback.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feedback.cs",
@@ -2613,7 +2715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 155,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Product.cs",
@@ -2624,7 +2726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 156,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Category.cs",
@@ -2635,7 +2737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 157,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Service.cs",
@@ -2646,7 +2748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 158,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Yummy\\YummyProject\\YummyProject.WebApi\\Entity\\Feature.cs",

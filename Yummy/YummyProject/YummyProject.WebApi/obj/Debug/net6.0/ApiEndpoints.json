@@ -720,8 +720,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "service",
-        "Type": "YummyProject.WebApi.Entity.Service",
+        "Name": "ServiceDTO",
+        "Type": "YummyProject.WebApi.DTOs.ServiceDTOs.CreateServiceDTO",
         "IsRequired": true
       }
     ],
@@ -736,8 +736,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "service",
-        "Type": "YummyProject.WebApi.Entity.Service",
+        "Name": "ServiceDTO",
+        "Type": "YummyProject.WebApi.DTOs.ServiceDTOs.UpdateServiceDto",
         "IsRequired": true
       }
     ],
