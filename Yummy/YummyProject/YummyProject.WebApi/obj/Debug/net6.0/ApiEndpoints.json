@@ -156,8 +156,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "chef",
-        "Type": "YummyProject.WebApi.Entity.Chef",
+        "Name": "chefDTO",
+        "Type": "YummyProject.WebApi.DTOs.ChefDTOs.CreateChefDTO",
         "IsRequired": true
       }
     ],
@@ -172,8 +172,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "chef",
-        "Type": "YummyProject.WebApi.Entity.Chef",
+        "Name": "chefDTO",
+        "Type": "YummyProject.WebApi.DTOs.ChefDTOs.UpdateChefDTO",
         "IsRequired": true
       }
     ],

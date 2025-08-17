@@ -238,17 +238,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/CreateChefDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/CreateChefDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/CreateChefDTO"
               }
             }
           }
@@ -267,17 +267,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/UpdateChefDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/UpdateChefDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Chef"
+                "$ref": "#/components/schemas/UpdateChefDTO"
               }
             }
           }
@@ -1333,32 +1333,6 @@
         },
         "additionalProperties": false
       },
-      "Chef": {
-        "type": "object",
-        "properties": {
-          "chefId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "nameSurname": {
-            "type": "string",
-            "nullable": true
-          },
-          "title": {
-            "type": "string",
-            "nullable": true
-          },
-          "description": {
-            "type": "string",
-            "nullable": true
-          },
-          "imageUrl": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "CreateAboutDTO": {
         "type": "object",
         "properties": {
@@ -1393,6 +1367,28 @@
         "type": "object",
         "properties": {
           "categoryName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateChefDTO": {
+        "type": "object",
+        "properties": {
+          "nameSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
             "type": "string",
             "nullable": true
           }
@@ -1668,6 +1664,32 @@
             "format": "int32"
           },
           "categoryName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateChefDTO": {
+        "type": "object",
+        "properties": {
+          "chefId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nameSurname": {
+            "type": "string",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
+          "imageUrl": {
             "type": "string",
             "nullable": true
           }

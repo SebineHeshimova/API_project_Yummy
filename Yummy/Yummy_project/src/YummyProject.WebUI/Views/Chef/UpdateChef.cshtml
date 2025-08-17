@@ -1,0 +1,49 @@
+﻿@model UpdateChefDTO
+@{
+    ViewData["Title"] = "UpdateChef";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<section class="section">
+    <div class="section-body">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Chef update page</h4>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <div class="form-group row">
+                                <input type="hidden" asp-for="ChefId" />
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Name and Surname</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="NameSurname" class="form-control" placeholder="Name and surname">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Title</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Title" class="form-control" placeholder="Title">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Description</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Description" class="form-control" placeholder="Description">
+                                    <br />
+                                </div>
+
+                                <label for="inputPassword" class="col-sm-2 col-form-label">ImageUrl</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ImageUrl" class="form-control" placeholder="ImageUrl">
+                                    <br />
+                                    <button class="btn btn-primary">Update</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

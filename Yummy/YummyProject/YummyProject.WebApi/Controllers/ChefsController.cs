@@ -1,6 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using YummyProject.WebApi.DAL;
+using YummyProject.WebApi.DTOs.ChefDTOs;
 using YummyProject.WebApi.Entity;
 
 namespace YummyProject.WebApi.Controllers
@@ -10,22 +12,26 @@ namespace YummyProject.WebApi.Controllers
     public class ChefsController : ControllerBase
     {
         private readonly YummyDBContext _context ;
-        public ChefsController(YummyDBContext context)
+        private readonly IMapper _mapper ;
+        public ChefsController(YummyDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
-       
+
         [HttpPost]
-        public IActionResult CreateChef(Chef chef) 
+        public IActionResult CreateChef(CreateChefDTO chefDTO) 
         {
-            _context.Chefs.Add(chef);
+            var value=_mapper.Map<Chef>(chefDTO);
+            _context.Chefs.Add(value);
             _context.SaveChanges();
             return Ok("Shef ugurla elave olundu");
         }
         [HttpPut]
-        public IActionResult UpdateChef(Chef chef) 
+        public IActionResult UpdateChef(UpdateChefDTO chefDTO) 
         {
-            _context.Chefs.Update(chef);
+            var value = _mapper.Map<Chef>(chefDTO);
+            _context.Chefs.Update(value);
             _context.SaveChanges();
             return Ok("Shef ugurla deyisdirildi");
         }
