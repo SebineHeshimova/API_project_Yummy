@@ -96,6 +96,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Asus/Desktop/API_project_Yummy/Yummy/Yummy_project/src/YummyProject.WebUI/Views/Image/CreateImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcQ3JlYXRlSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/API_project_Yummy/Yummy/Yummy_project/src/YummyProject.WebUI/Views/Image/ImageList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW1hZ2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Asus/Desktop/API_project_Yummy/Yummy/Yummy_project/src/YummyProject.WebUI/Views/Image/UpdateImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcVXBkYXRlSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Asus/Desktop/API_project_Yummy/Yummy/Yummy_project/src/YummyProject.WebUI/Views/Product/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
