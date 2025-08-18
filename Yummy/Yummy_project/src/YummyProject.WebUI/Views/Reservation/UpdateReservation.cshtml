@@ -1,0 +1,66 @@
+﻿@model UpdateReservationDTO
+@{
+    ViewData["Title"] = "UpdateReservation";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<section class="section">
+    <div class="section-body">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>Reservation update page</h4>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <div class="form-group row">
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Name and Surname</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="NameSurname" class="form-control" placeholder="Name and Surname">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Email</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Email" class="form-control" placeholder="Email">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Phone Number</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="PhoneNumber" class="form-control" placeholder="Phone Number">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Count of People</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="CountofPeople" class="form-control" placeholder="Count of People">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Message</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Message" class="form-control" placeholder=Message">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Reservation Status</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ReservationStatus" class="form-control" placeholder="Reservation Status">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Reservation Time</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ReservationTime" class="form-control" placeholder="Reservation Time">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Reservation Type</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="ReservationType" class="form-control" placeholder=Reservation Type">
+                                    <br />
+                                    <button class="btn btn-primary">Update</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
