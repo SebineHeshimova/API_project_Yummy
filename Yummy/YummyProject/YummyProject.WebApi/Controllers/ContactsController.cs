@@ -43,7 +43,7 @@ namespace YummyProject.WebApi.Controllers
             _context.SaveChanges();
             return Ok("Kontakt ugurla yenilendi!");
         }
-        [HttpDelete("{id}")]
+        [HttpDelete]
         public IActionResult DeleteContact(int id)
         {
             var value = _context.Contacts.Find(id);

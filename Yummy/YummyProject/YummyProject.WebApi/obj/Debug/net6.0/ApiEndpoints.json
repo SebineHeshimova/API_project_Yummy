@@ -255,18 +255,8 @@
   },
   {
     "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
-    "Method": "ConractList",
-    "RelativePath": "api/Contacts",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
     "Method": "DeleteContact",
-    "RelativePath": "api/Contacts/{id}",
+    "RelativePath": "api/Contacts",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -274,9 +264,19 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YummyProject.WebApi.Controllers.ContactsController",
+    "Method": "ConractList",
+    "RelativePath": "api/Contacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
