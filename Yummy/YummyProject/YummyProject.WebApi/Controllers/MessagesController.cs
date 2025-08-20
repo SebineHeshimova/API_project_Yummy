@@ -44,16 +44,16 @@ namespace YummyProject.WebApi.Controllers
             return Ok("Mesaj ugurla silindi!");
         }
         [HttpGet]
-        public IActionResult MessageLIst()
+        public IActionResult MessageList()
         {
-            var value = _context.Messages.ToList();
-            return Ok(_mapper.Map<List<GetMessageDTO>>(value));
+            var values = _context.Messages.ToList();
+            return Ok(values);
         }
-        [HttpGet("{id}")]
+        [HttpGet("GetMessage")]
         public IActionResult GetMessage(int id)
         {
-            var value =_context.Messages.Find(id);
-            return Ok(_mapper.Map<GetByIdMessageDTO>(value));
+            var value = _context.Messages.Find(id);
+            return Ok(value);
         }
         [HttpGet("GetMessageIsReadFalse")]
         public IActionResult GetMessageIsReadFalse()

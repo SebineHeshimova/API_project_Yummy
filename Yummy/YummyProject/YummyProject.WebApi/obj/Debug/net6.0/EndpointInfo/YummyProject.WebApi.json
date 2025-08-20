@@ -879,7 +879,7 @@
         }
       }
     },
-    "/api/Messages/{id}": {
+    "/api/Messages/GetMessage": {
       "get": {
         "tags": [
           "Messages"
@@ -887,8 +887,7 @@
         "parameters": [
           {
             "name": "id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"

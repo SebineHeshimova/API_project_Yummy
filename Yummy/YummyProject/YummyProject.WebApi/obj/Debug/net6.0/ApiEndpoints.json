@@ -567,7 +567,7 @@
   },
   {
     "ContainingType": "YummyProject.WebApi.Controllers.MessagesController",
-    "Method": "MessageLIst",
+    "Method": "MessageList",
     "RelativePath": "api/Messages",
     "HttpMethod": "GET",
     "IsController": true,
@@ -578,7 +578,7 @@
   {
     "ContainingType": "YummyProject.WebApi.Controllers.MessagesController",
     "Method": "GetMessage",
-    "RelativePath": "api/Messages/{id}",
+    "RelativePath": "api/Messages/GetMessage",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -586,7 +586,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

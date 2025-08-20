@@ -1,0 +1,60 @@
+﻿@model GetByIdMessageDTO
+@{
+    ViewData["Title"] = "DetailMessage";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<section class="section">
+    <div class="section-body">
+        <div class="row">
+            <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>About update page</h4>
+                    </div>
+                    <div class="card-body">
+
+                        <form method="post">
+                            <div class="form-group row">
+                                <input type="hidden" asp-for="MessageId"/>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Name and Surname</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="NameSurname" class="form-control" placeholder="Name and Surname">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Email</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Email" class="form-control" placeholder="Email">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Message Details</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="MessageDetails" class="form-control" placeholder="Message Details">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">Subject</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="Subject" class="form-control" placeholder="Subject">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">SendDate</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="SendDate" class="form-control" placeholder=SendDate">
+                                    <br />
+                                </div>
+                                <label for="inputPassword" class="col-sm-2 col-form-label">IsRead</label>
+                                <div class="col-sm-10">
+                                    <input type="text" asp-for="IsRead" class="form-control" placeholder=IsRead">
+                                    <br />
+                                   
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
